@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+<project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
+
+<project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0" />
+
+<project path="device/sony/nicki" name="freexperia/android_device_sony_nicki" remote="github" revision="cm-11.0" />
+
+<project path="vendor/sony/nicki" name="NoelMacwan/proprietary_vendor_sony_nicki" remote="github" revision="cm-11.0" />
+
+<project path="vendor/sony/qcom-common" name="NoelMacwan/qcom-common-vendor" remote="github" revision="master" />
+
+<project path="kernel/sony/msm8x27" name="RonGokhale/android_Kernel_sony_msm8x27" remote="github" revision="cm-11.0" />
+
+<project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
+
+</manifest>

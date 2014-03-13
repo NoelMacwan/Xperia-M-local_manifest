@@ -2,7 +2,7 @@
 <manifest>
 
 
-<project path="device/sony/qcom-common" name="icoolguy1995/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
+<project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0" />
 
 <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0" />
 
@@ -12,7 +12,7 @@
 
 <project path="vendor/sony/qcom-common" name="NoelMacwan/qcom-common-vendor" remote="github" revision="master" />
 
-<project path="kernel/sony/msm8x27" name="RonGokhale/android_Kernel_sony_msm8x27" remote="github" revision="cm-11.0" />
+<project path="kernel/sony/msm8x27" name="freexperia/android_Kernel_sony_msm8x27" remote="github" revision="cm-11.0" />
 
 <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-11.0" />
 
